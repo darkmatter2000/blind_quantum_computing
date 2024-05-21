@@ -1,1 +1,1 @@
-# blind_quantum_computing
+# Blind quantum computing
